@@ -1,3 +1,4 @@
 *.csv
 index-cache*
 .*
+data-sets/
